@@ -1,6 +1,7 @@
 # 项目介绍
 
-一个基于 Node.js 和 MongoDB 的用于显示和管理电影数据的项目。
+1. 基于 Node.js 和 MongoDB 的用于显示和管理电影数据的项目
+2. 源于慕课网课程《node+mongodb 建站攻略（一期）》 `http://www.imooc.com/learn/75`
 
 ## 如何使用
 
