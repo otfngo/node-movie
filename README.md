@@ -7,7 +7,7 @@
 1. 安装 Node.js
 2. 项目根目录 `npm install`
 3. 项目根目录 `bower install`
-4. 安装 MongoDB：https://www.mongodb.com/download-center 并启动 mongod.exe
+4. 安装 MongoDB：`https://www.mongodb.com/download-center` 并启动 mongod.exe
 5. 项目根目录 `node app.js`
 6. 打开浏览器访问
 ### 访问地址
